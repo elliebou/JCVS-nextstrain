@@ -1,4 +1,4 @@
-# JCV-nextstrain
+# JCVS-nextstrain
 
 **This is the repository used to build the small segment of Jamestown Canyon virus.**
 
