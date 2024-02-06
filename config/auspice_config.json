@@ -1,0 +1,70 @@
+{"title": "JCV M Segment Version 8",
+"maintainers": [
+  {"name": "Ellie Bourgikos"}
+],
+"build_url": "https://github.com/grubaughlab/JCV-genomics",
+"colorings": [
+  {
+  "key": "gt",
+  "title": "Genotype",
+  "type": "categorical"
+},
+{
+  "key": "num_date",
+  "title": "Date",
+  "type": "continuous"
+},
+{
+  "key": "author",
+  "title": "Author",
+  "type": "categorical"
+},
+{
+  "key": "species",
+  "title": "Species",
+  "type": "categorical"
+},
+{
+  "key": "voltine_genus",
+  "title": "Generation-Genus",
+  "type": "categorical"
+},
+{
+  "key": "state",
+  "title": "State",
+  "type": "categorical"
+},
+{
+  "key": "county",
+  "title": "County",
+  "type": "categorical"
+},
+{
+  "key": "city",
+  "title": "City",
+  "type": "categorical"
+}
+],
+"geo_resolutions": [
+  "state",
+  "county",
+  "city"
+],
+"panels": [
+   "tree",
+   "map",
+   "entropy"
+],
+"display_defaults": {
+  "map_triplicate": true
+},
+"filters": [
+  "state",
+  "county",
+  "city",
+  "author",
+  "species",
+  "voltine_genus"
+]
+}
+  
