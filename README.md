@@ -1,6 +1,6 @@
 # JCV-nextstrain
 
-**This is the repository used to build the small and medium segments of Jamestown Canyon virus, and their resulting tanglegram**
+**This is the repository used to build the small segment of Jamestown Canyon virus.**
 
 ---
 
